@@ -58,17 +58,6 @@ CS Undergraduate | Building toward Backend + AI Infrastructure
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact)
-
-</div>
-
----
-
 ## 🔗 Links
 
 - 📝 Blog: [your-blog-link]
