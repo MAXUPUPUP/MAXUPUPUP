@@ -2,7 +2,8 @@
 
 # Hi, I'm GUI SHIXIAO 👋
 
-### Backend Engineer in the making | AI Infra Enthusiast
+### Full-Stack Engineer in the making | AI Infra Enthusiast
+
 
 CS Undergraduate | Building toward Backend + AI Infrastructure
 
@@ -10,13 +11,14 @@ CS Undergraduate | Building toward Backend + AI Infrastructure
 
 ---
 
-🌱 Born 2003 (改成你的实际出生年) ｜ 📍 China
-
+🌱 Born 2002 ｜ 📍 China
+🎓 M1 @ The University of Tokyo, Computational Biology
+🎓 B.E. @ Wuhan University of Technology, Software Engineering
 - 🔭 Currently building backend systems with **Java / Spring Boot**
 - 🤖 Exploring AI Infrastructure with **Python / PyTorch / vLLM**
-- 📚 Learning bioinformatics in parallel (GWAS, variant calling, Snakemake)
+- 📚 Learning bioinformatics in parallel
 - 💡 Open to **backend / AI infra internships** — feel free to reach out
-- ✉️ Reach me at: your-email@example.com
+- ✉️ Reach me at: guishixiao519@gmail.com
 
 ---
 
@@ -70,8 +72,8 @@ CS Undergraduate | Building toward Backend + AI Infrastructure
 ## 🔗 Links
 
 - 📝 Blog: [your-blog-link]
-- 💼 LeetCode: [your-leetcode]
-- 📧 Email: your-email@example.com
+- 💼 LeetCode: https://leetcode.cn/u/hopeful-feynmanhjs/
+- 📧 Email: guishixiao519@gmail.com
 
 ---
 
