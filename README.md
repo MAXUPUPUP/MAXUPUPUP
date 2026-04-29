@@ -12,8 +12,8 @@ CS Undergraduate | Building toward Backend + AI Infrastructure
 ---
 
 🌱 Born 2002 ｜ 📍 China
-🎓 M1 @ The University of Tokyo, Computational Biology
-🎓 B.E. @ Wuhan University of Technology, Software Engineering
+- 🎓 M1 @ The University of Tokyo, Computational Biology
+- 🎓 B.E. @ Wuhan University of Technology, Software Engineering
 - 🔭 Currently building backend systems with **Java / Spring Boot**
 - 🤖 Exploring AI Infrastructure with **Python / PyTorch / vLLM**
 - 📚 Learning bioinformatics in parallel
