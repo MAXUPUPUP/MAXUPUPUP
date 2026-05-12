@@ -2,10 +2,10 @@
 
 # Hi, I'm GUI SHIXIAO 👋
 
-### Full-Stack Engineer in the making | AI Infra Enthusiast
+### Full-Stack Engineer in the making | Bioinfo(AI) Enthusiast
 
 
-CS Undergraduate | Building toward Backend + AI Infrastructure
+CS Undergraduate | Building toward Backend + AI 
 
 </div>
 
@@ -15,9 +15,9 @@ CS Undergraduate | Building toward Backend + AI Infrastructure
 - 🎓 M1 @ The University of Tokyo, Computational Biology
 - 🎓 B.E. @ Wuhan University of Technology, Software Engineering
 - 🔭 Currently building backend systems with **Java / Spring Boot**
-- 🤖 Exploring AI Infrastructure with **Python / PyTorch / vLLM**
+- 🤖 Exploring AI  with **Python / PyTorch / vLLM**
 - 📚 Learning bioinformatics in parallel
-- 💡 Open to **backend / AI infra internships** — feel free to reach out
+- 💡 Open to **backend / AI internships** — feel free to reach out
 - ✉️ Reach me at: guishixiao519@gmail.com
 
 ---
