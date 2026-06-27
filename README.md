@@ -61,7 +61,7 @@ CS Undergraduate | Building toward Backend + AI
 ## 🔗 Links
 
 - 📝 Blog: [your-blog-link]
-- 💼 LeetCode: 
+- 💼 LeetCode: https://leetcode.cn/u/wo-de-xiao-yu-zhou/
 - 📧 Email: guishixiao519@gmail.com
 
 ---
