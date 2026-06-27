@@ -61,7 +61,7 @@ CS Undergraduate | Building toward Backend + AI
 ## 🔗 Links
 
 - 📝 Blog: [your-blog-link]
-- 💼 LeetCode: https://leetcode.cn/u/hopeful-feynmanhjs/
+- 💼 LeetCode: 
 - 📧 Email: guishixiao519@gmail.com
 
 ---
