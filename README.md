@@ -48,7 +48,7 @@ CS Undergraduate | Building toward Backend + AI
 
 ## 📌 Featured Projects
 
-🔹 **[Project Name 1](link)** — One-line description of what it does
+🔹 **[[Project Name 1](link)](https://github.com/MAXUPUPUP/snake)** — One-line description of what it does
 &nbsp;&nbsp;&nbsp;&nbsp; `Java` `Spring Boot` `Redis`
 
 🔹 **[Project Name 2](link)** — One-line description
